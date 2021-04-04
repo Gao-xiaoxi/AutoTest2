@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Chapter9" />
         <module name="Chapter6" />
         <module name="Chapter5" />
         <module name="Chapter7" />
@@ -16,6 +17,7 @@
       <module name="Chapter5" target="1.8" />
       <module name="Chapter6" target="1.8" />
       <module name="Chapter7" target="1.8" />
+      <module name="Chapter9" target="1.8" />
       <module name="module7" target="1.8" />
     </bytecodeTargetLevel>
   </component>
